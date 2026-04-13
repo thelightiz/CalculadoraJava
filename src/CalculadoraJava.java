@@ -36,7 +36,7 @@ public class CalculadoraJava {
         }
 
 
-        if (escolha == 4) {
+        else if (escolha == 4) {
             if (numero2 == 0) {
                 System.out.println("Não é possível dividir por zero.");
                 System.exit(1);
@@ -44,9 +44,11 @@ public class CalculadoraJava {
 
 
             else {
-                int calculo = (numero1 / numero2);
+                double calculo =  (double) numero1 / numero2;
                 System.out.println("O resultado desta divisão é de: " + calculo);
             }
         }
+    scanner.close();
     }
 }
+
