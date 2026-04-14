@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CalculoPorcentagem.iml" filepath="$PROJECT_DIR$/CalculoPorcentagem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraJava.iml" filepath="$PROJECT_DIR$/CalculadoraJava.iml" />
     </modules>
   </component>
 </project>
